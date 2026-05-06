@@ -28,7 +28,6 @@ with st.sidebar:
     height = st.slider("Hauteur du Genially", 400, 1200, 800, step=50)
 
     st.divider()
-    )
 
     show_catalogue = st.checkbox("Afficher le catalogue", value=True)
 
